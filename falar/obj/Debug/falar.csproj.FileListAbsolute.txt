@@ -20,3 +20,15 @@ C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.csprojResolveAssem
 C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.csproj.CoreCompileInputs.cache
 C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.exe
 C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.pdb
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.exe.config
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.exe
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.pdb
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.dll
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.Support.dll
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.xml
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.Support.xml
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csprojAssemblyReference.cache
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csproj.CopyComplete
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.exe
+C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.pdb
