@@ -1,0 +1,22 @@
+C:\csharp\falar\falar\bin\Debug\falar.exe.config
+C:\csharp\falar\falar\bin\Debug\falar.exe
+C:\csharp\falar\falar\bin\Debug\falar.pdb
+C:\csharp\falar\falar\bin\Debug\WebDriver.dll
+C:\csharp\falar\falar\bin\Debug\WebDriver.Support.dll
+C:\csharp\falar\falar\bin\Debug\WebDriver.xml
+C:\csharp\falar\falar\bin\Debug\WebDriver.Support.xml
+C:\csharp\falar\falar\obj\Debug\falar.csprojResolveAssemblyReference.cache
+C:\csharp\falar\falar\obj\Debug\falar.csproj.CoreCompileInputs.cache
+C:\csharp\falar\falar\obj\Debug\falar.exe
+C:\csharp\falar\falar\obj\Debug\falar.pdb
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\falar.exe.config
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\falar.exe
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\falar.pdb
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\WebDriver.dll
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\WebDriver.Support.dll
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\WebDriver.xml
+C:\csharp\Csharp Selenium Learn English\falar\bin\Debug\WebDriver.Support.xml
+C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.csprojResolveAssemblyReference.cache
+C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.csproj.CoreCompileInputs.cache
+C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.exe
+C:\csharp\Csharp Selenium Learn English\falar\obj\Debug\falar.pdb
