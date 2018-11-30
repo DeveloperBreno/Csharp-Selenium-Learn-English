@@ -21,23 +21,28 @@ class EntryPoint
         Thread.Sleep(1000);
 
         // escrever o valor(texto da textarea) no console
-        tecla = driver.FindElement(By.Name("text"));
+        tecla = driver.FindElement(By.Id("source"));
         Console.WriteLine(tecla.GetAttribute("value"));
 
         // espera um minuto
         Thread.Sleep(1000);
 
         // click no botao para falar em EN
-        id = driver.FindElement(By.Id("gt-src-listen"));
+        //id = driver.FindElement(By.Id("gt-src-listen"));
+
+        id = driver.FindElement(By.XPath("/ html / body / div[2] / div[1] / div[2] / div[1] / div[1] / div[1] / div[2] / div / div / div[5] / div[3] / div[2]"));
         id.SendKeys(Keys.Enter);
 
         // espera
         Thread.Sleep(5000);
 
         // click no botao para falar em PT
-        id = driver.FindElement(By.Id("gt-res-listen"));
-        id.SendKeys(Keys.Enter);
+        //id = driver.FindElement(By.Id("gt-res-listen"));
+        id = driver.FindElement(By.XPath("/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[4]/div[5]"));
 
+
+        id.SendKeys(Keys.Enter);
+        
         // escreva no console
         Console.WriteLine("Feito por Breno Gonçalves");
         Console.WriteLine("github.com/DeveloperBreno");
@@ -71,8 +76,9 @@ class EntryPoint
         Console.Clear();
 
         // ir para link
-        driver.Navigate().GoToUrl("https://translate.google.com.br/?hl=pt-BR#en/pt/please%20be%20quiet.%20i%20am%20working");
+        driver.Navigate().GoToUrl("https://translate.google.com.br/?hl=pt-BR#en/pt/please%20be%20quiet%20i%20am%20working");
         metodo();
+
 
         // ir para link
         driver.Navigate().GoToUrl("https://translate.google.com.br/?hl=pt-BR#en/pt/i%20work%20every%20day%20from%209%20o'clock%20to%205");

@@ -32,3 +32,14 @@ C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn
 C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csproj.CopyComplete
 C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.exe
 C:\Users\Pc\Downloads\Csharp-Selenium-Learn-English-master\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.pdb
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csproj.CoreCompileInputs.cache
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.exe
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.pdb
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.exe.config
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.exe
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\falar.pdb
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.dll
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.Support.dll
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.xml
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\bin\Debug\WebDriver.Support.xml
+C:\Users\Breno Oliveira\Documents\TRADIMUS\BAIXADO\Csharp-Selenium-Learn-English-master\falar\obj\Debug\falar.csproj.CopyComplete
